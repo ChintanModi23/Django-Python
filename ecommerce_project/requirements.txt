@@ -7,7 +7,7 @@ google-auth==1.16.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.29.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.9
 Markdown==3.2.2
 mysql-connector-python==8.0.20
